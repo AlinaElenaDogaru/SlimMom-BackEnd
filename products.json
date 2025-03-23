@@ -1,0 +1,698 @@
+[
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5543"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Amaranth",
+    "calories": 371,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff555c"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Buckwheat (unground) green",
+    "calories": 296,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5530"
+    },
+    "categories": "eggs",
+    "weight": 100,
+    "title": "Omelet with cheese",
+    "calories": 342,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5539"
+    },
+    "categories": "eggs",
+    "weight": 100,
+    "title": "Chicken egg (boiled)",
+    "calories": 160,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff554d"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Peas mung bean Fair Platinum",
+    "calories": 312,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5533"
+    },
+    "categories": "eggs",
+    "weight": 100,
+    "title": "Goose egg",
+    "calories": 185,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5567"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Buckwheat flakes Altai fairy tale",
+    "calories": 346,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5536"
+    },
+    "categories": "eggs",
+    "weight": 100,
+    "title": "Chicken egg (dry protein)",
+    "calories": 336,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5555"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Green buckwheat for sprouting",
+    "calories": 295,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5552"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Ready breakfast Nestle Kosmostars stars and galaxies honey",
+    "calories": 400,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff558a"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Muesli Vitalis fruit",
+    "calories": 317,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff558c"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Muesli Bon",
+    "calories": 333,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5598"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Myllyn Paras Oatmeal with Strawberries and Sugar",
+    "calories": 362,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff55e8"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Wheat flakes Nordic",
+    "calories": 340,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff55bd"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Oat flakes Makfa",
+    "calories": 380,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff55a3"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Myllyn Paras Oatmeal with Chocolate and Orange",
+    "calories": 363,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff55c0"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Instant Oatmeal Myllyn Paras",
+    "calories": 350,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff55f1"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Millet elite Agro-Alliance",
+    "calories": 350,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff563a"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Rice flakes Myllyn Paras",
+    "calories": 360,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff566d"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Barley groats Makfa in bags",
+    "calories": 313,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff57b1"
+    },
+    "categories": "dairy",
+    "weight": 100,
+    "title": "Cheese Paladin Mozzarella",
+    "calories": 255,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      true,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff58e1"
+    },
+    "categories": "flour",
+    "weight": 100,
+    "title": "Bread sticks Manifesto with rye taste",
+    "calories": 404,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      true,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff5a05"
+    },
+    "categories": "meat",
+    "weight": 100,
+    "title": "Pork stew",
+    "calories": 235,
+    "groupBloodNotAllowed": [
+      null,
+      false,
+      true,
+      false,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff57cc"
+    },
+    "categories": "dairy",
+    "weight": 100,
+    "title": "Cheese Svalya 45% sliced",
+    "calories": 339,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      true,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff5882"
+    },
+    "categories": "flour",
+    "weight": 100,
+    "title": "Pizza Ristorante Vegetale",
+    "calories": 198,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      true,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff59b3"
+    },
+    "categories": "meat",
+    "weight": 100,
+    "title": "Smoked chicken breast",
+    "calories": 117,
+    "groupBloodNotAllowed": [
+      null,
+      false,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff58c5"
+    },
+    "categories": "flour",
+    "weight": 100,
+    "title": "Corn Bread",
+    "calories": 266,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      true,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff58d4"
+    },
+    "categories": "flour",
+    "weight": 100,
+    "title": "Bread Capital",
+    "calories": 210,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      true,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff56c7"
+    },
+    "categories": "flour",
+    "weight": 100,
+    "title": "Corn flour Garnets",
+    "calories": 330,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff59ee"
+    },
+    "categories": "meat",
+    "weight": 100,
+    "title": "Meat pâté",
+    "calories": 170,
+    "groupBloodNotAllowed": [
+      null,
+      false,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5628"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Rice Mistral round grain",
+    "calories": 355,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5692"
+    },
+    "categories": "flour",
+    "weight": 100,
+    "title": "Buckwheat noodles SOBA",
+    "calories": 348,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff56bc"
+    },
+    "categories": "flour",
+    "weight": 100,
+    "title": "Myllyn Paras pizza flour",
+    "calories": 350,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      true,
+      true,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694902b2373622ff59d7"
+    },
+    "categories": "meat",
+    "weight": 100,
+    "title": "Fried partridge",
+    "calories": 250,
+    "groupBloodNotAllowed": [
+      null,
+      false,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff554f"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Peas Mistral Oregon",
+    "calories": 327,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff556b"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Porridge 7 cereals Matti",
+    "calories": 320,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5541"
+    },
+    "categories": "eggs",
+    "weight": 100,
+    "title": "Duck egg",
+    "calories": 185,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff5554"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Green boiled buckwheat",
+    "calories": 110,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      true,
+      true
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff557b"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Flax porridge with sesame",
+    "calories": 312,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff559e"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Myllyn Paras Oatmeal with Sugar Free Peach",
+    "calories": 353,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5d51694802b2373622ff55a4"
+    },
+    "categories": "cereals",
+    "weight": 100,
+    "title": "Oatmeal Myllyn Paras with apple and lingonberry",
+    "calories": 346,
+    "groupBloodNotAllowed": [
+      null,
+      true,
+      false,
+      false,
+      false
+    ],
+    "__v": 0
+  }]
